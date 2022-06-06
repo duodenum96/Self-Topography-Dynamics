@@ -7,6 +7,7 @@ Functions and example scripts for the paper The intrinsic Hierarchy of Self – 
   qinROIs.sh: Create ROI masks. Uses the Glasser atlas which is also in this folder\
   extract_data.sh: Extract time series from those masks.\
   example_interpolation.m: Linearly interpolate censored time points\
+  \
 2 - Dynamic Measures\
   Then calculate various measures from extracted data. See examples on examples.m
   
