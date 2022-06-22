@@ -11,4 +11,5 @@ Functions and example scripts for the paper The intrinsic Hierarchy of Self – 
 2 - Dynamic Measures\
   Then calculate various measures from extracted data. See examples on examples.m
   
-I didn't cover the network analysis here. That can easily be done using the bootnet package: https://cran.r-project.org/web/packages/bootnet/index.html
+3 - Network Analysis\
+  Calculate network measures strength and closeness on simulated signals.
