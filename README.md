@@ -1,4 +1,4 @@
-# Hierarchy-of-Self
+# Self Topography / Dynamics
 Functions and example scripts for the paper The intrinsic Hierarchy of Self – Converging Topography and Dynamics
 
 # Step by step
